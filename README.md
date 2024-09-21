@@ -40,9 +40,9 @@
 
 #### Save and Submit
 
-1. Click on the three dots next to the map title and select **Export to KML/KMZ**.
-2. In the dialog that appears, check the box **Export as KML instead of KMZ**.
-3. Click **Download** and save the file to your computer.
+1. Click on the three dots next to the map title and select `Export to KML/KMZ`.
+2. In the dialog that appears, check the box `Export as KML instead of KMZ`.
+3. Click `Download` and save the file to your computer.
 4. Submit the file to the shared course folder.
 
 **Notes:**
@@ -91,9 +91,9 @@
 
 #### Сохраните и загрузите
 
-1. Нажмите на три точки рядом с названием карты и выберите **Экспортировать в KML/KMZ**.
-2. В открывшемся окне установите флажок **Экспортировать как KML вместо KMZ**.
-3. Нажмите **Загрузить** и сохраните файл на свой компьютер.
+1. Нажмите на три точки рядом с названием карты и выберите `Export to KML/KMZ`.
+2. В открывшемся окне установите флажок `Export as KML instead of KMZ`.
+3. Нажмите `Download` и сохраните файл на свой компьютер.
 4. Отправьте файл в общую папку курса.
 
 ---
