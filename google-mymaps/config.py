@@ -32,15 +32,11 @@ USER_COLORS = [
 ]
 
 POINT_COLORS = [
-    "#FFB3BA",
-    "#FFDFBA",
-    "#FFFFBA",
-    "#BAFFC9",
-    "#BAE1FF",
-    "#E7E0C9",
-    "#F1CBFF",
-    "#F3E5AB",
-    "#F4B8E4",
-    "#C6E2FF",
-    "#D5E8D4",
+    "#FF5733",
+    "#33FF57",
+    "#3357FF",
+    "#FFD133",
+    "#8D33FF",
+    "#FF33A2",
+    "#33FFF0",
 ]
